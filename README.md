@@ -7,7 +7,8 @@ Data Scientist with a background in digital marketing
 
 
 ## 🛠 Skills
-* Python
+* Data Science
+* Data Engineering
 * Machine learning
 * NLP
 * Marketing
